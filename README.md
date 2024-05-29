@@ -1,5 +1,5 @@
 # Alfa, Samuel
 
-- [x] Alfa, Samuel, Caracas
+- [ ] Alfa, Samuel, Caracas
 - [ ] Bravo, Christian, Caracas
-- [ ] Charlie, Jonathan, Miranda
+- [x] Charlie, Jonathan, Miranda
